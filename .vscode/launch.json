@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter: обраний пристрій",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "Flutter: Chrome",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    }
+  ]
+}
